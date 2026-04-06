@@ -8,7 +8,8 @@ namespace FirstGitStudentAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing",
+            "Freezing"
+            ,
             "Bracing",
             "Chilly",
             "Cool",
