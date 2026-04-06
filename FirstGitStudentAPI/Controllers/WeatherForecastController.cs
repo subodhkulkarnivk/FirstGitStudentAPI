@@ -10,8 +10,8 @@ namespace FirstGitStudentAPI.Controllers
         {
             "Freezing",
             "Bracing",
-            "Chilly"
-            , "Cool",
+            "Chilly",
+            "Cool",
             "Mild", 
             "Warm", 
             "Balmy", 
